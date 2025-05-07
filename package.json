@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "description: A backend server for a real-time chat application using Node.js, Express, and Socket.IO.",
+  "repository": {
+    "type": "git",
+    "url": "Rajputashura"
+  },
+  "license": "ISC",
+  "author": "Ashu Rajput",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
